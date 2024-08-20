@@ -1,0 +1,20 @@
+/* This is the css for this website */
+body {
+    font-family: monospace,'Courier New', Courier;
+}
+
+.heroHeader {
+    text-align: center;
+    font-size: 38px;
+}
+
+.refList{
+text-align: center;
+}
+
+.mainList {
+    line-height: 2rem;
+    font-size: 22px;
+    display: inline-block;
+    text-align: left;
+}
