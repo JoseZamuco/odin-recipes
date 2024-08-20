@@ -8,6 +8,10 @@ body {
     font-size: 38px;
 }
 
+h3{
+    font-size: 28px;
+}
+
 .refList{
 text-align: center;
 }
@@ -17,4 +21,14 @@ text-align: center;
     font-size: 22px;
     display: inline-block;
     text-align: left;
+}
+
+.squareImg {
+    width: 500px;
+    height: 500px;
+}
+
+.rectangleImg {
+    width: 400px;
+    height: 500px;
 }
