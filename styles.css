@@ -1,0 +1,35 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: monospace,'Courier New', Courier;
+}
+
+.heroHeader {
+    text-align: center;
+    font-size: 38px;
+    margin: 16px;
+}
+
+.refList {
+    background-color: goldenrod;
+    width: 800px;
+    height: 200px;
+    margin: auto;
+    padding: 10px;
+}
+
+.mainList {
+    line-height: 2rem;
+    font-size: 22px;
+    padding: 100;
+}
+
