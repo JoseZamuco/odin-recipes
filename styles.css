@@ -11,15 +11,10 @@
 
 body {
     font-family: monospace,'Courier New', Courier;
+    background-color: #f4f3f2;
 }
 
-.heroHeader {
-    text-align: center;
-    font-size: 38px;
-    margin: 20px;
-}
-
-.refList {
+.heroBox,.refList {
     background-color: rgb(249,208,46);
     border: 5px solid goldenrod;
     border-radius: 10px;
@@ -27,6 +22,21 @@ body {
     height: 250px;
     margin: auto;
     text-align: center;
+}
+
+.heroBox{
+    margin: 20px auto;
+    padding: 12px;
+    width: 800px;
+    height: 100px;
+}
+
+.heroHeader {
+    padding: 5px;
+    font-size: 38px;
+    border-radius: 5px;
+    background-color: ghostwhite;
+    border: 5px solid goldenrod;
 }
 
 .mainList {
